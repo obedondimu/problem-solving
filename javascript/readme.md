@@ -9,6 +9,7 @@
 2. Problem template
 
 #----------------------------------------#
+
 Question
 Hints
 Solution
@@ -16,7 +17,9 @@ Solution
 3. Questions
 
 #----------------------------------------#
+
 Question 1
+
 Level 1
 
 Question:
@@ -27,21 +30,28 @@ The numbers obtained should be printed in a comma-separated sequence on a single
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 2
+
 Level 1
 
 Question:
-Write a program which can compute the factorial of a given numbers.
-The results should be printed in a comma-separated sequence on a single line.
+Write a program which can compute the factorial of a given number.
 Suppose the following input is supplied to the program:
 8
 Then, the output should be:
 40320
 
+How to:
+Create an input on html that receives the number and a button with the text calculate
+For numbers less that 0 it should show an error in red reading, 'Numbers must be >= to 0'
+
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 3
+
 Level 1
 
 Question:
@@ -51,58 +61,28 @@ Suppose the following input is supplied to the program:
 Then, the output should be:
 {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
 
-#----------------------------------------#
+How to:
+Create an input that receives the number and a button that reads 'Show squares'.
+When the button is clicked generate a table that has the first column as the number and the 2nd column as the square
 
-#----------------------------------------#
-Question 4
-Level 1
-
-Question:
-Write a program which accepts a sequence of comma-separated numbers from console and generate a list and a tuple which contains every number.
-Suppose the following input is supplied to the program:
-34,67,55,33,12,98
-Then, the output should be:
-['34', '67', '55', '33', '12', '98']
-('34', '67', '55', '33', '12', '98')
-
-#----------------------------------------#
-
-#----------------------------------------#
-Question 5
-Level 1
-
-Question:
-Define a class which has at least two methods:
-getString: to get a string from console input
-printString: to print the string in upper case.
-Also please include simple test function to test the class methods.
+| **Number** | **Square** |
+|------------|------------|
+|     1      |     1      |
+|     2      |     4      |
+|     3      |     9      |
+|     4      |     16     |
+|     5      |     25     |
 
 #----------------------------------------#
 
 #----------------------------------------#
-Question 6
-Level 2
 
-Question:
-Write a program that calculates and prints the value according to the given formula:
-Q = Square root of [(2 * C * D)/H]
-Following are the fixed values of C and H:
-C is 50. H is 30.
-D is the variable whose values should be input to your program in a comma-separated sequence.
-Example
-Let us assume the following comma separated input sequence is given to the program:
-100,150,180
-The output of the program should be:
-18,22,24
-
-#----------------------------------------#
-
-#----------------------------------------#
 Question 7
+
 Level 2
 
 Question:
-Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i\*j.
+Write a program which takes 2 digits, X,Y as input and generates a 2-dimensional array. The element value in the i-th row and j-th column of the array should be i*j.
 Note: i=0,1.., X-1; j=0,1,¡­Y-1.
 Example
 Suppose the following inputs are given to the program:
@@ -113,7 +93,9 @@ Then, the output of the program should be:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 8
+
 Level 2
 
 Question:
@@ -126,7 +108,9 @@ bag,hello,without,world
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 9
+
 Level 2
 
 Question£º
@@ -141,7 +125,9 @@ PRACTICE MAKES PERFECT
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 10
+
 Level 2
 
 Question:
@@ -154,7 +140,9 @@ again and hello makes perfect practice world
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 11
+
 Level 2
 
 Question:
@@ -168,7 +156,9 @@ Notes: Assume the data is input by console.
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 12
+
 Level 2
 
 Question:
@@ -178,7 +168,9 @@ The numbers obtained should be printed in a comma-separated sequence on a single
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 13
+
 Level 2
 
 Question:
@@ -192,7 +184,9 @@ DIGITS 3
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 14
+
 Level 2
 
 Question:
@@ -206,7 +200,9 @@ LOWER CASE 9
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 15
+
 Level 2
 
 Question:
@@ -219,7 +215,9 @@ Then, the output should be:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 16
+
 Level 2
 
 Question:
@@ -231,7 +229,9 @@ Then, the output should be:
 
 #----------------------------------------#
 
+
 Question 17
+
 Level 2
 
 Question:
@@ -251,7 +251,9 @@ Then, the output should be:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 18
+
 Level 3
 
 Question:
@@ -274,7 +276,9 @@ Following are the criteria for checking the password:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 19
+
 Level 3
 
 Question:
@@ -295,7 +299,9 @@ Then, the output of the program should be:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 20
+
 Level 3
 
 Question:
@@ -304,7 +310,9 @@ Define a class with a generator which can iterate the numbers, which are divisib
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 21
+
 Level 3
 
 Question£º
@@ -327,7 +335,9 @@ Then, the output of the program should be:
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 22
+
 Level 3
 
 Question:
@@ -350,7 +360,9 @@ to:1
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 23
+
 level 1
 
 Question:
@@ -359,7 +371,9 @@ Write a method which can calculate square value of number
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 24
+
 Level 1
 
 Question:
@@ -370,7 +384,9 @@ And add document for your own function
 #----------------------------------------#
 
 #----------------------------------------#
+
 Question 25
+
 Level 1
 
 Question:
